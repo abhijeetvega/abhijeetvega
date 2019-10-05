@@ -1,10 +1,11 @@
 ---
 title: Contact
+layout: contact
+subtitle: "7903070285"
+img_path: ''
 menu:
   main:
-    name: Contact
     weight: 5
-layout: contact
----
 
+---
 To get in touch fill the form below.
